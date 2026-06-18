@@ -1,6 +1,6 @@
-# Rubric chấm Track 3: Memory Systems for AI Agent
+# Rubric chấm Giai đoạn 2, Track 3, Day 17: Memory Systems for AI Agent
 
-Rubric này dùng để đánh giá cả phần triển khai kỹ thuật lẫn phần hiểu đúng trade-off của memory system.
+Rubric này dùng để đánh giá bài làm của Day 17, bao gồm cả phần triển khai kỹ thuật lẫn phần hiểu đúng trade-off của memory system.
 
 ## 0-60 điểm: Hoàn thành triển khai cơ bản
 

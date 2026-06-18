@@ -1,6 +1,6 @@
-# Hướng dẫn từng bước để hoàn thành Track 3
+# Hướng dẫn từng bước để hoàn thành Giai đoạn 2, Track 3, Day 17
 
-Tài liệu này hướng dẫn các bạn hoàn thành bài lab theo đúng thứ tự hợp lý. Mục tiêu là làm được bài trong `src/` với một lộ trình rõ ràng từ setup, memory layer, đến benchmark.
+Tài liệu này hướng dẫn các bạn hoàn thành bài lab của Day 17 theo đúng thứ tự hợp lý. Mục tiêu là làm được bài trong `src/` với một lộ trình rõ ràng từ setup, memory layer, đến benchmark.
 
 ## Bước 1. Đọc cấu trúc repo
 
